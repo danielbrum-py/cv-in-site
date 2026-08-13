@@ -69,14 +69,14 @@ footer p {
 @media (max-width: 768px) {
 
     main {
-        display: flex;
-        flex-direction: row;
+        flex-direction: column;
         gap: 0;
     }
 
     .coluna-esquerda,
     .coluna-direita {
         width: 100%;
+        margin: 0;
     }
 
     .coluna-direita {
@@ -84,6 +84,15 @@ footer p {
     }
 
     .foto {
-        display: none;
+        position: static;
+        display: block;
+        margin: 0 auto 2rem;
+    }
+
+    .coluna-direita h2,
+    .coluna-direita ul,
+    .coluna-direita p {
+        position: static;
+        margin: 0;
     }
 }
