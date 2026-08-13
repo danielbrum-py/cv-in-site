@@ -71,26 +71,22 @@ footer p {
         flex-direction: column;
         gap: 2rem;
     }
-
-    .coluna-esquerda,
-    .coluna-direita {
+    .coluna-esquerda{
         width: 90%;
-        padding: 8px;
+        padding: 10px;
     }
-
     .coluna-direita {
-        padding: 2rem;
+        width: 100%;
+        padding: 10px;
     }
     li{
     margin-bottom: 0.8rem;
-}
-
+    }
     .foto {
         position: static;
         display: block;
         margin: 0 auto 2rem;
     }
-
     .coluna-direita h2,
     .coluna-direita ul,
     .coluna-direita p {
