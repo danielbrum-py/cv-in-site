@@ -74,8 +74,8 @@ footer p {
 
     .coluna-esquerda,
     .coluna-direita {
-        width: 100%;
-        margin-right: 15px;
+        width: 90%;
+        padding: 8px;
     }
 
     .coluna-direita {
