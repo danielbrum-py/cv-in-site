@@ -10,7 +10,7 @@ header{
     padding: 40px;
     font-size: 2rem;
     text-align: center;
-    background-color: #7373d6;
+    background-color: #8181e9;
 }
 main{
     background-color: #a6a6f0;
@@ -39,7 +39,7 @@ main{
 }
 .coluna-direita{
     width: 40%;
-    background-color: #7373d6;
+    background-color: #8181e9;
     padding: 6rem;
     gap: 2rem;
     font-size: 1.2rem;
@@ -57,14 +57,12 @@ ul{
 footer {
     padding: 0.7rem;
     text-align: center;
-    background-color: #303062;
+    background-color: #5b5b87;
     color: rgb(0, 0, 0);
 }
-
 footer h3 {
     font-size: 20px;
 }
-
 footer p {
     font-size: 1.4rem;
 }
