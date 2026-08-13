@@ -66,3 +66,24 @@ footer h3 {
 footer p {
     font-size: 1.4rem;
 }
+@media (max-width: 768px) {
+
+    main {
+        flex-direction: column;
+    }
+
+    .coluna-esquerda,
+    .coluna-direita {
+        width: 100%;
+    }
+
+    .coluna-direita {
+        padding: 2rem;
+    }
+
+    .foto {
+        position: static;
+        display: block;
+        margin: 0 auto 2rem;
+    }
+}
