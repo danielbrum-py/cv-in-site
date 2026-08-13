@@ -19,7 +19,7 @@ main{
     align-items: stretch;
     gap: 2rem;
     color: #13121c;
-    font-weight: 500;
+    font-weight: 600;
 }
 .foto{
     width: 200px;
@@ -67,21 +67,23 @@ footer p {
     font-size: 1.4rem;
 }
 @media (max-width: 768px) {
-
     main {
         flex-direction: column;
-        gap: 0;
+        gap: 2rem;
     }
 
     .coluna-esquerda,
     .coluna-direita {
         width: 100%;
-        margin: 0;
+        margin-right: 15px;
     }
 
     .coluna-direita {
         padding: 2rem;
     }
+    li{
+    margin-bottom: 0.8rem;
+}
 
     .foto {
         position: static;
