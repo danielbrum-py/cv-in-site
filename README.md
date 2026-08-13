@@ -2,7 +2,7 @@ Personal resume website created with HTML5 and CSS3.
 
 ## 🌐 Live Website
 
-[View the website](https://danielbrum-py.github.io/cv-in-site/)
+[View the website](https://danielbrum-py.github.io/resume-in-site/)
 
 ## 📌 About the Project
 
